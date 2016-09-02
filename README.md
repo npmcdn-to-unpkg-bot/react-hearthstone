@@ -47,11 +47,11 @@ var CardGallery = require('react-hearthstone').CardGallery;
 var CardList = require('react-hearthstone').CardList;
 ```
 
-The UMD build is also available on [npmcdn](https://npmcdn.com):
+The UMD build is also available on [unpkg](https://unpkg.com):
 
 ```html
-<script src="https://npmcdn.com/react-hearthstone/umd/ReactHearthstone.min.js"></script>
-<script src="https://npmcdn.com/react-hearthstone/umd/style.css"></script>
+<script src="https://unpkg.com/react-hearthstone/umd/ReactHearthstone.min.js"></script>
+<script src="https://unpkg.com/react-hearthstone/umd/style.css"></script>
 ```
 
 You can find the library on `window.ReactHearthstone`.
